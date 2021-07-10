@@ -1,0 +1,2 @@
+# MyJNIApplication
+Activity,Service,BroadcastReceiver,ContentProvider
